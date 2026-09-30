@@ -1,0 +1,1 @@
+import{t as e}from"./index-BmdvkBhd.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`p-2`,children:`Hello from About!`})}export{n as component};
